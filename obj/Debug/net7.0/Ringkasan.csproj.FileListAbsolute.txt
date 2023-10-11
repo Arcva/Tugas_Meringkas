@@ -1,0 +1,14 @@
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\bin\Debug\net7.0\Ringkasan.exe
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\bin\Debug\net7.0\Ringkasan.deps.json
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\bin\Debug\net7.0\Ringkasan.runtimeconfig.json
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\bin\Debug\net7.0\Ringkasan.dll
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\bin\Debug\net7.0\Ringkasan.pdb
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.AssemblyInfoInputs.cache
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.AssemblyInfo.cs
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.csproj.CoreCompileInputs.cache
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.dll
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\refint\Ringkasan.dll
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.pdb
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\Ringkasan.genruntimeconfig.cache
+C:\Users\Narendra\Documents\Dasar Csharps\Tugas\Ringkasan\obj\Debug\net7.0\ref\Ringkasan.dll
